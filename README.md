@@ -26,18 +26,3 @@ Company Screener is a backend service built with FastAPI for screening and analy
    uvicorn app.main:app --reload
    ```
 3. Access the API documentation at `http://localhost:8000/docs`.
-
-## Dependencies
-- fastapi
-- uvicorn
-- langchain
-- openai
-- pydantic
-- python-dotenv
-- httpx
-
-## License
-Specify your license here.
-
-## Contact
-Add contact or maintainer information here.
